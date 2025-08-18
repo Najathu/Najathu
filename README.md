@@ -20,11 +20,18 @@ I'm a passionate Mobile Application Developer with 1.9 years of experience speci
 - Available on both Google Play Store and App Store
 - Features comprehensive sales activity management, order processing, and performance tracking
 
-Needoo Admin Panel (Advanced Resource Management System)
+### Needoo Admin Panel (Advanced Resource Management System)
 - Centralized business operations and resource management platform
 - Enables real-time staff, inventory, and order tracking
 - Implemented secure payment gateways for online transactions
 - Integrated Google Maps for location-based store discovery
+
+ ### Field Sales Employee Location Tracking App
+- Developed for Team Back Office International to monitor and support field sales employees
+- Provides real-time GPS tracking for employee location during working hours
+- Enables managers to view daily sales routes, visit logs, and customer meeting records
+- Improved transparency, accountability, and efficiency in sales operations
+- Optimized for low battery and data consumption to ensure smooth tracking
 
 
 
