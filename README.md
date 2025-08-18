@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Najath Thekkeyil
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHo8PQBc-dK_w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712060358263?e=1750896000&v=beta&t=ouFsquAkzVKlpsEI2Dj1PXJlYFKJ_o4miJR4Dj8D2Bw" alt="Mobile App Developer" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHo8PQBc-dK_w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712060358263?e=1758153600&v=beta&t=0t_TcAB0bi3cAvS7l8xtVDXWL28LOmPLDBzIUfE-Iso" alt="Mobile App Developer" />
 </div>
 
 ## 👨‍💻 About Me
