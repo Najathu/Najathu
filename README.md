@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Mobile Application Developer with 1.9 years of experience specializing in Flutter and cross-platform development. I focus on creating enterprise-grade solutions that make a difference. Currently working at Needoo Ai Innovations, I've successfully delivered multiple applications serving thousands of users.
+I'm a passionate Mobile Application Developer with 1.9 years of experience specializing in Flutter and cross-platform development. I focus on creating enterprise-grade solutions that make a difference. Currently working at Team Back Office International, I've successfully delivered multiple applications serving thousands of users.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/najath-thekkeyil)
 
