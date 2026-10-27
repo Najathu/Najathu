@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Flutter Developer with **2.5+ years of experience** building cross-platform Android and iOS apps with Flutter and Dart. I work across REST API integration, state management (Provider, Riverpod, GetX, BLoC), and clean, modular app architecture, and I connect mobile apps to **Frappe Framework / ERPNext** backends to automate real business workflows.
+I'm a Flutter Developer with **3+ years of experience** building cross-platform Android and iOS apps with Flutter and Dart. I work across REST API integration, state management (Provider, Riverpod, GetX, BLoC), and clean, modular app architecture, and I connect mobile apps to **Frappe Framework / ERPNext** backends to automate real business workflows.
 
 - 🔭 Currently a **Flutter Developer at Team Back Office International LLP**, Calicut
 - 🧩 Building ERP-connected apps for CRM, projects, tasks, and timesheets with role-based access
