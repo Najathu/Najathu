@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Flutter Developer with **2.5+ years of experience** building cross-platform Android and iOS apps with Flutter and Dart. I work across REST API integration, state management (Provider, Riverpod, GetX, BLoC), and clean, modular app architecture, and I connect mobile apps to **Frappe Framework / ERPNext** backends to automate real business workflows.
+I'm a Flutter Developer with **3+ years of experience** building cross-platform Android and iOS apps with Flutter and Dart. I work across REST API integration, state management (Provider, Riverpod, GetX, BLoC), and clean, modular app architecture, and I connect mobile apps to **Frappe Framework / ERPNext** backends to automate real business workflows.
 
 - 🔭 Currently a **Flutter Developer at Team Back Office International LLP**, Calicut
 - 🧩 Building ERP-connected apps for CRM, projects, tasks, and timesheets with role-based access
@@ -41,9 +41,6 @@ I'm a Flutter Developer with **2.5+ years of experience** building cross-platfor
 
 ## 🚀 Key Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Najathu/Najathu/main/mobile-apps.png" alt="Mobile app screens: TBO Smart App for CRM, projects and timesheets; Chundakkadan App for live location and sales; Needoo E-Commerce for merchant, customer and delivery" width="100%" />
-</p>
 
 ### 📊 TBO Smart App (Admin, CRM & Employee Modules)
 A Flutter business management app integrated with an ERP backend for lead, project, and task management.
