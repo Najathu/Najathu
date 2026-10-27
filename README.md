@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Najathu/Najathu/main/banner.svg" alt="Najath Thekkeyil, Flutter developer building Android and iOS apps that sync with Frappe / ERPNext" width="100%" />
-</p>
+
 
 <h1 align="center">Hi there! 👋 I'm Najath Thekkeyil</h1>
 
